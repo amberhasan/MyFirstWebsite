@@ -3253,11 +3253,11 @@
 		}
 
 		.wrapper.style1 {
-			background-color: #38ACEC;
+			background-color: #254117;
 		}
 
 		.wrapper.style1-alt {
-			background-color: #493382;
+			background-color: #848b79;
 		}
 
 		.wrapper.style2 {
@@ -3265,7 +3265,7 @@
 		}
 
 		.wrapper.style2-alt {
-			background-color: #3e4094;
+			background-color: #667C26;
 		}
 
 		.wrapper.style3 {
@@ -3273,7 +3273,7 @@
 		}
 
 		.wrapper.style3-alt {
-			background-color: #953d75;
+			background-color: #617C58;
 		}
 
 		.wrapper.fullscreen {
@@ -3534,7 +3534,7 @@
 
 	#sidebar {
 		padding: 2.5em 2.5em 0.5em 2.5em ;
-		background: #312450;
+		background: #450;
 		cursor: default;
 		height: 100vh;
 		left: 0;
